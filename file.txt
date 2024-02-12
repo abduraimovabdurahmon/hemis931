@@ -1,0 +1,296 @@
+<section class="content">
+        <div id="schedule-grid" data-pjax-container="" data-pjax="1"><div class="info-box box-mini">
+    <div class="row">
+        <div class="col-sm-6">
+            <span class="info-box-icon bg-green"><i class="fa fa-files-o"></i></span>
+            <div class="info-box-content ">
+
+                <span class="info-box-number">
+                        931-21 TTo'                                    </span>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="info-box-content no-margin text-right text-center-sm">
+                <label class="hidden visible-xs plabel">Semestr</label>
+                <ul class="pagination pagination-sm psemester ">
+                    <li class=" hidden-xs"><a href="#" class="plabel">Semestr</a></li>
+                                            <li class="">
+                            <a href="/education/time-table?week=9125&amp;semester=11">1</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?week=9125&amp;semester=12">2</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?week=9125&amp;semester=13">3</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?week=9125&amp;semester=14">4</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?week=9125&amp;semester=15">5</a>
+                        </li>
+                                            <li class="active">
+                            <a href="/education/time-table?week=9125&amp;semester=16">6</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?week=9125&amp;semester=17">7</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?week=9125&amp;semester=18">8</a>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="row" id="data-grid-filters">
+        <form id="w0" action="/education/time-table?week=9125" method="post">
+<input type="hidden" name="_csrf-frontend" value="NYu3cEdQ3c2jWlPE9wTXTooP7FlOcFwo9SfpuiJYdPYF__8_IQGCv-IiMKKFMZonvFqiYQIKbWvDcZ7eWAwwvg==">        <div class="col col-sm-2 col-md-1 col-md-offset-3 hidden-xs">
+            <label>&nbsp;</label>
+            <a href="/education/time-table?week=9123" class="btn btn-primary btn-block btn-flat">
+                <i class="fa fa-chevron-left"></i>
+            </a>
+        </div>
+        <div class="col col-xs-12 col-sm-8 col-md-4 text-center">
+            <div class="form-group field-studentschedule-_week">
+<label class="control-label" for="studentschedule-_week">Haftani tanlang</label>
+<select id="studentschedule-_week" class="form-control select2-hidden-accessible" name="StudentSchedule[_week]" onchange="selectWeek(this)" data-s2-options="s2options_7ebc6538" data-krajee-select2="select2_3b5c60d4" data-select2-id="studentschedule-_week" tabindex="-1" aria-hidden="true">
+<option value="">Xaftani tanlang</option>
+<option value="9122">126.  22 yanvar /  27 yanvar</option>
+<option value="9123">127.  29 yanvar /  03 fevral</option>
+<option value="9125" selected="" data-select2-id="2">129.  12 fevral /  17 fevral</option>
+<option value="9126">130.  19 fevral /  24 fevral</option>
+<option value="9127">131.  26 fevral /  02 mart</option>
+<option value="9128">132.  04 mart /  09 mart</option>
+<option value="9129">133.  11 mart /  16 mart</option>
+<option value="9130">134.  18 mart /  23 mart</option>
+<option value="9131">135.  25 mart /  30 mart</option>
+<option value="9132">136.  01 aprel /  06 aprel</option>
+<option value="9133">137.  08 aprel /  13 aprel</option>
+<option value="9134">138.  15 aprel /  20 aprel</option>
+<option value="9135">139.  22 aprel /  27 aprel</option>
+<option value="9136">140.  29 aprel /  04 may</option>
+</select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="1" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-studentschedule-_week-container"><span class="select2-selection__rendered" id="select2-studentschedule-_week-container" role="textbox" aria-readonly="true" title="129.  12 fevral /  17 fevral">129.  12 fevral /  17 fevral</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+
+<div class="help-block"></div>
+</div>        </div>
+        <div class="col col-sm-2 col-md-1  hidden-xs">
+            <label>&nbsp;</label>
+            <a href="/education/time-table?week=9126" class="btn btn-primary btn-block btn-flat">
+                <i class="fa fa-chevron-right"></i>
+            </a>
+        </div>
+        </form>    </div>
+
+            <div class="row sh-parent">
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 228px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Dushanba                                <span class="pull-right text-muted fs16">
+                                    12 fevral, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="SALAYEVA BAKPASHSHA KAMILOVNA">
+                                            4. Biznes jarayonlarini boshqarish<br>
+                                            <span class="text-center text-muted">108</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">SALAYEVA B. K.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="ABDULLAYEVA GULCHEXRA XAKIMOVNA">
+                                            5. Operatsion tizimlar<br>
+                                            <span class="text-center text-muted">212</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">ABDULLAYEVA G. X.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 228px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Seshanba                                <span class="pull-right text-muted fs16">
+                                    13 fevral, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="SALAYEVA BAKPASHSHA KAMILOVNA">
+                                            4. Biznes jarayonlarini boshqarish<br>
+                                            <span class="text-center text-muted">213</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Amaliy</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">SALAYEVA B. K.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="NURMETOVA BONURAXON BAXROMOVNA">
+                                            5. O‘rnatilgan tizimlar<br>
+                                            <span class="text-center text-muted">119</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Amaliy</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">NURMETOVA B. B.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 228px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Chorshanba                                <span class="pull-right text-muted fs16">
+                                    14 fevral, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="MATYAKUBOV DAVLATBEK DAVRONBEKOVICH">
+                                            4. Optik aloqa tizimlari<br>
+                                            <span class="text-center text-muted">217</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Laboratoriya</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">MATYAKUBOV D. D.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="OLIMOV OLIMBOY OTABEKOVICH">
+                                            4. Optik aloqa tizimlari<br>
+                                            <span class="text-center text-muted">216</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Laboratoriya</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">OLIMOV O. O.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="MATYAKUBOV DAVLATBEK DAVRONBEKOVICH">
+                                            5. Optik aloqa tizimlari<br>
+                                            <span class="text-center text-muted">206</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">MATYAKUBOV D. D.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+            <div class="row sh-parent">
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 228px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Payshanba                                <span class="pull-right text-muted fs16">
+                                    15 fevral, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="BEKIMETOV ALISHER FARXODOVICH">
+                                            4. Simsiz tarmoqlar<br>
+                                            <span class="text-center text-muted">216</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Amaliy</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">BEKIMETOV A. F.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="NURMETOVA BONURAXON BAXROMOVNA">
+                                            5. O‘rnatilgan tizimlar<br>
+                                            <span class="text-center text-muted">315</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">NURMETOVA B. B.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 228px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Juma                                <span class="pull-right text-muted fs16">
+                                    16 fevral, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="DJUMANIYAZOVA MALIKA KADIROVNA">
+                                            4. Murabbiylik soati<br>
+                                            <span class="text-center text-muted">321</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Seminar</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">DJUMANIYAZOVA M. K.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 228px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Shanba                                <span class="pull-right text-muted fs16">
+                                    17 fevral, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="EGAMOV ZAFARBEK RAXIMBOY O‘G‘LI">
+                                            3. Operatsion tizimlar<br>
+                                            <span class="text-center text-muted">108</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Amaliy</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">EGAMOV Z. R.</span>
+                                            <span class="pull-right text-muted">11:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="GANDJAYEV TOXIR XODJANAZAROVICH">
+                                            4. Simsiz tarmoqlar<br>
+                                            <span class="text-center text-muted">216</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">GANDJAYEV T. X.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="NURMETOVA BONURAXON BAXROMOVNA">
+                                            5. O‘rnatilgan tizimlar<br>
+                                            <span class="text-center text-muted">312</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">NURMETOVA B. B.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+        <script type="text/javascript">
+        function selectWeek(e) {
+            var w = $(e).val();
+            $.pjax.reload('#schedule-grid', {'url': '/education/time-table?week=' + w});
+        }
+    </script>
+</div>    </section>

@@ -1,0 +1,123 @@
+[
+  {
+    "kun": "Dushanba 12 fevral, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Biznes jarayonlarini boshqarish",
+        "xona": "108",
+        "turi": "Ma’ruza",
+        "domla": "SALAYEVA B. K.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. Operatsion tizimlar",
+        "xona": "212",
+        "turi": "Ma’ruza",
+        "domla": "ABDULLAYEVA G. X.",
+        "soat": "15:00"
+      }
+    ]
+  },
+  {
+    "kun": "Seshanba 13 fevral, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Biznes jarayonlarini boshqarish",
+        "xona": "213",
+        "turi": "Amaliy",
+        "domla": "SALAYEVA B. K.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. O‘rnatilgan tizimlar",
+        "xona": "119",
+        "turi": "Amaliy",
+        "domla": "NURMETOVA B. B.",
+        "soat": "15:00"
+      }
+    ]
+  },
+  {
+    "kun": "Chorshanba 14 fevral, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Optik aloqa tizimlari",
+        "xona": "217",
+        "turi": "Laboratoriya",
+        "domla": "MATYAKUBOV D. D.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "4. Optik aloqa tizimlari",
+        "xona": "216",
+        "turi": "Laboratoriya",
+        "domla": "OLIMOV O. O.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. Optik aloqa tizimlari",
+        "xona": "206",
+        "turi": "Ma’ruza",
+        "domla": "MATYAKUBOV D. D.",
+        "soat": "15:00"
+      }
+    ]
+  },
+  {
+    "kun": "Payshanba 15 fevral, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Simsiz tarmoqlar",
+        "xona": "216",
+        "turi": "Amaliy",
+        "domla": "BEKIMETOV A. F.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. O‘rnatilgan tizimlar",
+        "xona": "315",
+        "turi": "Ma’ruza",
+        "domla": "NURMETOVA B. B.",
+        "soat": "15:00"
+      }
+    ]
+  },
+  {
+    "kun": "Juma 16 fevral, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Murabbiylik soati",
+        "xona": "321",
+        "turi": "Seminar",
+        "domla": "DJUMANIYAZOVA M. K.",
+        "soat": "13:30"
+      }
+    ]
+  },
+  {
+    "kun": "Shanba 17 fevral, 2024",
+    "fanlar": [
+      {
+        "nomi": "3. Operatsion tizimlar",
+        "xona": "108",
+        "turi": "Amaliy",
+        "domla": "EGAMOV Z. R.",
+        "soat": "11:30"
+      },
+      {
+        "nomi": "4. Simsiz tarmoqlar",
+        "xona": "216",
+        "turi": "Ma’ruza",
+        "domla": "GANDJAYEV T. X.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. O‘rnatilgan tizimlar",
+        "xona": "312",
+        "turi": "Ma’ruza",
+        "domla": "NURMETOVA B. B.",
+        "soat": "15:00"
+      }
+    ]
+  }
+]
