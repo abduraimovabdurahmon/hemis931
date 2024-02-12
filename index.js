@@ -47,7 +47,7 @@ bot.on("channel_post", async (ctx) => {
 
 
 
-cron.schedule('* * * * *', async () => {
+cron.schedule('0 8 * * *', async () => {
     try {
 
         const data = JSON.parse(require('fs').readFileSync(require('path').join(__dirname, 'data.json'), 'utf-8'));
